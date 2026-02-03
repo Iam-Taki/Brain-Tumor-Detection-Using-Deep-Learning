@@ -62,4 +62,5 @@ pip install tensorflow numpy matplotlib pillow captum scikit-learn
 This project was developed for the **Machine Learning & Deep Learning** and **Computer Vision & Deep Learning** courses at the **University of Verona**.
 
 **Author:** Abdullah Al Noman Taki
+
 **Matricola:** VR528988
