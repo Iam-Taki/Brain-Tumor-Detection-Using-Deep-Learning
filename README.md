@@ -25,7 +25,7 @@ The project explores a diverse suite of architectures to balance diagnostic sens
 
 ## 🛠️ Key Features
 
-* **Dataset:** Analysis of 7,023 MRI images (5,712 Training, 1,311 Testing).
+* **Dataset:** Analysis of 7,023 MRI images (5,712 Training, 1,311 Testing). (Link of dataset: https://drive.google.com/drive/folders/1wGHHfSLeonwQf8ZEP2aUtJ-8cf67xKhZ?usp=drive_link)
 * **Preprocessing:** Standardized pipeline including geometric resizing (), intensity normalization, and real-time data augmentation.
 * **Interpretability:** Implementation of **Captum** attribution mapping to visualize model "attention" and ensure clinical grounding.
 * **Comparative Metrics:** Evaluation based on Accuracy, Precision, Recall, F1-Score, and Confusion Matrices.
